@@ -2,4 +2,4 @@
 
 number = 3.14159
 
-print("Float: {:.2f}".format(number))
+print(f"{:.2f} number")
